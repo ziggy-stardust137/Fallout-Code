@@ -1,10 +1,7 @@
-# VS Code ayarlarını gizle (Senin klasöründeki o klasör)
 .vscode/
 
-# Python'ın oluşturduğu geçici dosyalar
 __pycache__/
 *.py[cod]
 
-# İşletim sistemi kalıntıları
 Thumbs.db
 .DS_Store
