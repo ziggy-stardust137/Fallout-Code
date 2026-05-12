@@ -1,0 +1,1 @@
+A Python-based recreation of the hacking minigame from the Fallout series. The script generates a pool of words hidden within a randomized character grid, challenging the player to identify the correct password through 'likeness' feedback.
